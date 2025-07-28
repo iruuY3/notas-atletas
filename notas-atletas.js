@@ -29,5 +29,5 @@ for (let i = 0; i < atletas.length ; i++){
   console.log(`Atleta: ${atletas[i].nome}`)
   console.log(`Notas Obtidas: ${notas}`)
   console.log(`Média Válida: ${soma}`)
-  console.log(`-----------------------`)
+  console.log(``)
 }
