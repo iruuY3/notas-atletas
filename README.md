@@ -73,6 +73,6 @@ Média Válida: 9.833333333333334
 ```
 A ordem das notas está difente pelo uso do **.sort((a,b) => a - b)** a qual ordena do menor para o maior
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 Desenvolvido por Yuri Fernando da Cruz
 GitHub
